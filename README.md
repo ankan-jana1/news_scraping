@@ -2,7 +2,7 @@
 
 A location-aware news intelligence tool that searches, filters, and summarizes news articles across multiple sources for urban areas in India. Built for sustainability and ESG risk monitoring.
 
-Developed by [Sustainbility Intelligence Pvt. Ltd.](mailto:Ankan.j@sustaintel.com)
+Developed by [Ankan Jana, PhD](mailto:Ankan.j@sustaintel.com)
 
 ---
 
